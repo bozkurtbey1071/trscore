@@ -1,0 +1,8 @@
+cd Deskop
+cd trscore
+git init
+git remote add origin https://github.com/bozkurtbey1071/trscore.git
+git add .
+git commit -m "TRScore global ilk sürüm"
+git branch -M main
+git push -u origin main
