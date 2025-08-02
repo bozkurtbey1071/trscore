@@ -6,3 +6,19 @@ git add .
 git commit -m "TRScore global ilk sürüm"
 git branch -M main
 git push -u origin main
+8{
+  "version": 2,
+  "builds": [
+    {
+      "src": "next.config.js",
+      "use": "@vercel/next"
+    }
+  ],
+  "rewrites": [
+    { "source": "/", "destination": "/index"
+
+
+
+
+
+
